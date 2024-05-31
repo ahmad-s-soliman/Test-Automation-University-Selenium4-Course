@@ -1,4 +1,4 @@
-In this course I got to learn the following:
+# In this course I got to learn the following:
 
  1. Relative locators
  2. Window and tab management
